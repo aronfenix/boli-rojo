@@ -4,6 +4,8 @@ Juego de ortografía para 5.º de Primaria. Conserva las seis estaciones, la his
 
 ## Jugar desde GitHub Pages
 
+**[Abrir el juego](https://aronfenix.github.io/boli-rojo/)**
+
 La versión de GitHub Pages permite partidas locales, los modos individual y en pareja y toda la música nueva. Las cuentas online se activarán cuando se publique el servidor de Cloudflare; GitHub Pages no guarda datos de alumnos entre dispositivos.
 
 ## Cómo se juega
